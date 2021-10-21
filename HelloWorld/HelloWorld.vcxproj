@@ -139,15 +139,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Arrow.cpp" />
     <ClCompile Include="Const.cpp" />
+    <ClCompile Include="Copy_Constructs.cpp" />
     <ClCompile Include="Create_Instance_Objects.cpp" />
+    <ClCompile Include="DynamicArrays.cpp" />
     <ClCompile Include="Integer.cpp" />
+    <ClCompile Include="Lifetime_with_Destructor.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Log.cpp" />
     <ClCompile Include="Member_Initializer_List.cpp" />
-    <ClCompile Include="Mutable.cpp" />
+    <ClCompile Include="Multiple_Return_Types.cpp" />
+    <ClCompile Include="MutableLambdas.cpp" />
     <ClCompile Include="NewKeyword.cpp" />
+    <ClCompile Include="ScopedPointer.cpp" />
+    <ClCompile Include="SmartPointer.cpp" />
     <ClCompile Include="Strings.cpp" />
+    <ClCompile Include="ThisKeyword.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
