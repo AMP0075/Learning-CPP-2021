@@ -30,7 +30,7 @@ void NewKey() {
 	delete[] e1;
 
 	//Entity1* e2 = new(c) Entity1(); //placement new - let's us decide where the m/m comes from
-									//we initialize our m/m address in a specific m/m location
+									//we instantiate our m/m address in a specific m/m location
 
 	//delete e2;
 }

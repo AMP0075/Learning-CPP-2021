@@ -30,7 +30,7 @@
     <ClCompile Include="Const.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Mutable.cpp">
+    <ClCompile Include="MutableLambdas.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Member_Initializer_List.cpp">
@@ -40,6 +40,30 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="NewKeyword.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThisKeyword.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lifetime_with_Destructor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScopedPointer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SmartPointer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Copy_Constructs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicArrays.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Multiple_Return_Types.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
